@@ -25,7 +25,7 @@
 
 𝚁𝚎́𝚜𝚎𝚊𝚞𝚡 𝚂𝚘𝚌𝚒𝚊𝚞𝚡: 
 
-<a title="https://twitter/heiko_leet"><img src="image/twitter.png" /></a> <a title="https://github/medex24"><img src="image/githublogo.png" /></a>
+<a title="https://twitter/heiko_leet"><img src="image/twitter.png" /></a> <a title="https://github/medex24"><img src="image/github.gif" /></a>
 
 
 <!--
