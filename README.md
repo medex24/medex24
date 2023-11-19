@@ -13,6 +13,11 @@ Salam à tous, je suis DLR et je suis ravi de vous accueillir sur mon GitHub. J'
 </p>
 
 
+**Réseaux Sociaux:**
+
+[![Drupal](icons/drupal.png)](https://www.drupal.org/u/hussainweb)
+
+
 <!--
 **medex24/medex24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
