@@ -25,7 +25,7 @@
 
 𝚁𝚎́𝚜𝚎𝚊𝚞𝚡 𝚂𝚘𝚌𝚒𝚊𝚞𝚡: 
 
-[![github](image/github.gif)](https://github.com/medex24)
+[![GitHub](image/github.gif)](https://github.com/medex24)
 
 
 <!--
