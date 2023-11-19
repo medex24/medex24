@@ -1,9 +1,17 @@
-السلام عليكم 👋🏼
+<h1 align="center">السلام عليكم 👋🏼</h1>
+
 # A propos de moi:
 
 Salam à tous, je suis DLR et je suis ravi de vous accueillir sur mon GitHub. J'espère que mes projets vous plairont et que vous y trouverez tout ce qui vous inspire. 💭
 
 ![image](https://github.com/medex24/medex24/blob/main/banner.png)
+
+<p align="center">
+  <a href="mehdiytbchanel@gmail.com">
+    <img src="https://github.com/blackcater/blackcater/raw/main/images/social-gmail.svg" height="40" />
+  </a>
+</p>
+
 
 <!--
 **medex24/medex24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
