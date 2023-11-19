@@ -4,7 +4,7 @@
 
 Salam à tous, je suis DLR et je suis ravi de vous accueillir sur mon GitHub. J'espère que mes projets vous plairont et que vous y trouverez tout ce qui vous inspire. 💭
 
-![image](https://github.com/medex24/medex24/blob/main/banner.png)
+![image](https://github.com/medex24/medex24/blob/main/image/banner.png)
 
 <p align="center">
   <a href="mehdiytbchanel@gmail.com">
@@ -15,7 +15,7 @@ Salam à tous, je suis DLR et je suis ravi de vous accueillir sur mon GitHub. J'
 
 **Réseaux Sociaux:**
 
-[![Drupal](icons/drupal.png)](https://www.drupal.org/u/hussainweb)
+[![Drupal](image/twitter.png)](https://twitter.com/heiko_leet)
 
 
 <!--
