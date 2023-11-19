@@ -26,6 +26,7 @@
 𝚁𝚎́𝚜𝚎𝚊𝚞𝚡 𝚂𝚘𝚌𝚒𝚊𝚞𝚡: 
 
 [![GitHub](image/github.gif)](https://github.com/medex24)
+
 [![GitHub](image/discord.gif)](https://discord.com/users/dlr_dlr)
 
 
