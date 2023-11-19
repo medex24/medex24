@@ -13,6 +13,16 @@
 </p>
 
 
+**𝙻𝚊𝚗𝚐𝚊𝚐𝚎𝚜 𝚞𝚝𝚒𝚕𝚒𝚜𝚎́𝚜:**
+
+<a title="Drupal"><img src="image/languageC.png" /></a>
+
+
+**𝙴𝚗 𝚝𝚛𝚊𝚒𝚗 𝚍'𝚊𝚙𝚙𝚛𝚎𝚗𝚍𝚛𝚎...**
+
+<a title="Drupal"><img src="image/js.png" /></a>
+
+
 **Réseaux Sociaux:**
 
 [![Drupal](image/twitter.png)](https://twitter.com/heiko_leet)
