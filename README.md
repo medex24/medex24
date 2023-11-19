@@ -1,6 +1,4 @@
-#medex24
-# السلام عليكم 👋🏼
-
+السلام عليكم 👋🏼
 # A propos de moi:
 
 Salam à tous, je suis DLR et je suis ravi de vous accueillir sur mon GitHub. J'espère que mes projets vous plairont et que vous y trouverez tout ce qui vous inspire. 💭
