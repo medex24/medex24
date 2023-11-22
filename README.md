@@ -15,12 +15,12 @@
 
 𝙻𝚊𝚗𝚐𝚊𝚐𝚎𝚜 𝚞𝚝𝚒𝚕𝚒𝚜𝚎́𝚜:
 
-<a title="Drupal"><img src="image/languageC.png" /></a>
+<a target="blank"><img align="center" src="image/letter-c.png" alt="gautamkrishnar" height="40" width="40" /></a>
 
 
 𝙴𝚗 𝚝𝚛𝚊𝚒𝚗 𝚍'𝚊𝚙𝚙𝚛𝚎𝚗𝚍𝚛𝚎...
 
-<a title="Drupal"><img src="image/js.png" /></a>
+<a target="blank"><img align="center" src="image/js.png" alt="gautamkrishnar" height="35" width="35" /></a>
 
 
 𝚁𝚎́𝚜𝚎𝚊𝚞𝚡 𝚂𝚘𝚌𝚒𝚊𝚞𝚡: 
