@@ -10,6 +10,10 @@
   <a href="mailto:medex2003@outlook.com"> <img src="image/gmail.png" height="40" /></a>
 
 
+𝗘𝘅𝗽𝗹𝗼𝗿𝗲𝘇 𝗺𝗼𝗻 𝗗𝗲𝗿𝗻𝗶𝗲𝗿 𝗧𝘂𝘁𝗼𝗿𝗶𝗲𝗹 𝗠𝗮𝗿𝗸𝗱𝗼𝘄𝗻 :
+<p align="left">
+<a href="https://42-network.notion.site/Github-0fd572f2bff646db8c0198d4edf277b3?pvs=4"> <img src="image/notion.png" height="40" width="40" /></a>
+
 𝙻𝚊𝚗𝚐𝚊𝚐𝚎𝚜 𝚞𝚝𝚒𝚕𝚒𝚜𝚎́𝚜:
 
 <a target="blank"><img align="center" src="image/letter-c.png" alt="gautamkrishnar" height="40" width="40" /></a>
