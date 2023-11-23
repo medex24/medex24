@@ -7,7 +7,7 @@
 ![image](https://github.com/medex24/medex24/blob/main/image/banner.png)
 
 <p align="center">
-  <a href="mehdiytbchanel@gmail.com"> <img src="image/gmail.png" height="40" /></a>
+  <a href="medex2003@outlook.com"> <img src="image/gmail.png" height="40" /></a>
 
 
 𝙻𝚊𝚗𝚐𝚊𝚐𝚎𝚜 𝚞𝚝𝚒𝚕𝚒𝚜𝚎́𝚜:
