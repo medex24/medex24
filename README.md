@@ -13,9 +13,13 @@
 <p align="center">
   <a href="mailto:medex2003@outlook.com"> <img src="image/gmail.png" height="40" /></a>
 
-𝗘𝘅𝗽𝗹𝗼𝗿𝗲𝘇 𝗺𝗼𝗻 𝗗𝗲𝗿𝗻𝗶𝗲𝗿 𝗧𝘂𝘁𝗼𝗿𝗶𝗲𝗹 𝗠𝗮𝗿𝗸𝗱𝗼𝘄𝗻 :
-<p align="left">
-<a href="https://42-network.notion.site/Github-0fd572f2bff646db8c0198d4edf277b3?pvs=4"> <img src="image/notion.png" height="40" width="40" /></a>
+𝗧𝘂𝘁𝗼𝗿𝗶𝗲𝗹𝘀 𝗣𝗿𝗼𝗷𝗲𝘁𝘀 𝗔𝗰𝗮𝗱𝗲́𝗺𝗶𝗾𝘂𝗲𝘀:
+
+[<img src="image/ft_printf.png" width="120">](https://42-network.notion.site/ft_printf-70523c2fe83c4091a49532bf24bc95be?pvs=4)
+
+𝗧𝘂𝘁𝗼𝗿𝗶𝗲𝗹𝘀 𝗲𝗻 𝗗𝗲𝘃:
+
+[<img src="image/logomd.png" width="130">](https://42-network.notion.site/Github-0fd572f2bff646db8c0198d4edf277b3?pvs=4)
 
 𝙻𝚊𝚗𝚐𝚊𝚐𝚎𝚜 𝚞𝚝𝚒𝚕𝚒𝚜𝚎́𝚜:
 
