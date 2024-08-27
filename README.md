@@ -4,12 +4,6 @@
 
 𝚂𝚊𝚕𝚊𝚖 𝚊̀ 𝚝𝚘𝚞𝚜, 𝚓𝚎 𝚜𝚞𝚒𝚜 medex24 𝚎𝚝 𝚓𝚎 𝚜𝚞𝚒𝚜 𝚛𝚊𝚟𝚒 𝚍𝚎 𝚟𝚘𝚞𝚜 𝚊𝚌𝚌𝚞𝚎𝚒𝚕𝚕𝚒𝚛 𝚜𝚞𝚛 𝚖𝚘𝚗 𝙶𝚒𝚝𝙷𝚞𝚋. 𝙹'𝚎𝚜𝚙𝚎̀𝚛𝚎 𝚚𝚞𝚎 𝚖𝚎𝚜 𝚙𝚛𝚘𝚓𝚎𝚝𝚜 𝚟𝚘𝚞𝚜 𝚙𝚕𝚊𝚒𝚛𝚘𝚗𝚝 𝚎𝚝 𝚚𝚞𝚎 𝚟𝚘𝚞𝚜 𝚢 𝚝𝚛𝚘𝚞𝚟𝚎𝚛𝚎𝚣 𝚝𝚘𝚞𝚝 𝚌𝚎 𝚚𝚞𝚒 𝚟𝚘𝚞𝚜 𝚒𝚗𝚜𝚙𝚒𝚛𝚎. 💭
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/medex24/count.svg" alt="Visitor Count"/>
-</div>
-
-![image](https://github.com/medex24/medex24/blob/main/image/banner.png)
-
 <p align="center">
   <a href="mailto:medex2003@outlook.com"> <img src="image/gmail.png" height="40" /></a>
 
