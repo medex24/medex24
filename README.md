@@ -28,7 +28,6 @@
 𝚁𝚎́𝚜𝚎𝚊𝚞𝚡 𝚂𝚘𝚌𝚒𝚊𝚞𝚡: 
 
 <p align="left">
-<a href="https://twitter.com/heiko_leet" target="blank"><img align="center" src="image/twitter.png" alt="gautamkrishnar" height="35" width="40" /></a>
 <a href="https://github.com/medex24" target="blank"><img align="center" src="image/github(1).png" alt="gautamkrishnar" height="35" width="40" /></a>
 <a href="https://www.youtube.com/@medex_24" target="blank"><img align="center" src="image/youtube.png" alt="4214976" height="35" width="35" /></a>
 
